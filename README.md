@@ -1,3 +1,3 @@
-# profile
+# Cover_letter
 
-이 저장소에는 홈페이지의 HTML, CSS와 프로필 사진이 담겨 있습니다.
+HTML & CSS 기초 학습을 겸해 만든 개인 자기소개서 웹사이트
